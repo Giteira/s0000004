@@ -1,12 +1,13 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0´type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E06 A Natureza do Inimigo
+
+#EXTINF:0type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E06 A Natureza do Inimigo
 https://thv1.uloz.to/3/6/9/369db333ecd989a2cdc45b7347582951.240.mp4
 
-#EXTINF:0´type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E11  A Voz de Pamela
+#EXTINF:0type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E11  A Voz de Pamela
 https://thv1.uloz.to/8/0/2/8027f188851e686f32666cf81d4fc85e.240.mp4
 
-#EXTINF:0´type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E15 O último prêmio
+#EXTINF:0type="video" tvg-logo="https://tinyurl.com/y6lf2le2" group-title="serie" pltv-subgroup="GALERIA DO TERROR/1969/71",GDT T01|E15 O último prêmio
 https://thv1.uloz.to/f/5/1/f511f67ed5cfc5f519a5e0d89ac7851b.240.mp4
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/LlIg14K.jpg" group-title="serie" pltv-subgroup="MULHER MARAVILHA/1978", MM T02|E19 Seção de Terror
