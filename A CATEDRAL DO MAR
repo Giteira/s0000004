@@ -1,0 +1,23 @@
+
+#EXTM3U size="Medium"
+
+#######################################################  A CATEDRAL DO MAR  ##########################################################################################
+
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",LA CATEDRAL DEL MAR
+http://0.0.0.0
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP01-DUB
+http://bit.ly/2L6PiF2
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP02-DUB
+http://bit.ly/2C0Fslg
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP03-DUB
+http://bit.ly/2PvblWG
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP04-DUB
+http://bit.ly/2C2UQgY
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP05-DUB
+http://bit.ly/2SD83Ti
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP06-DUB
+http://bit.ly/2QrLvZ7
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP07-DUB
+http://bit.ly/2PvumYT
+#EXTINF:0 tvg-logo="" group-title="serie" pltv-subgroup="CATEDRAL DO MAR",T01EP08-DUB
+http://bit.ly/2QnKZLE
