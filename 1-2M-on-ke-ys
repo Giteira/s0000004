@@ -1,5 +1,10 @@
 
 #EXTM3U
+
+
+#EXTINF:0 tvg-logo="https://imgur.com/517wwle.jpg" group-title="serie" pltv-subgroup="12 Monkeys", trailer 12 Monkeys
+http://br.vid.web.acsta.net/uk/medias//nmedia/55/14/07/17/14/19539699_hd_013.mp4
+
 #EXTINF:0 tvg-logo="https://imgur.com/517wwle.jpg" group-title="serie" pltv-subgroup="12 Monkeys", T1EP01 DUB 12 Monkeys
 https://onedrive.live.com/download?resid=61E1070585CFE188!108&authkey=!ACYwAcLefMIY2Vg
 
